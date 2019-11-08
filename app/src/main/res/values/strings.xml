@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alfreda</string>
+    <string name="btn_start_thread">start</string>
+    <string name="btn_start_push">start push</string>
+    <string name="wifi_name_default">wifi_default</string>
+    <string name="wifi_name_label">Wifi Name</string>
+    <string name="allow_autostart_label">Allow autostart</string>
+</resources>
